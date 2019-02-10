@@ -14,4 +14,4 @@ Hundreds of code inspections verify your code as you type and inspect the whole 
 
 ### Easy Code Navigation & Search
 
-PhpStorm helps you get around your code more efficiently and save time when working with large projects. Jump to a method, function or variable definition in just one click, or search for its usages.
+PhpStorm helps you get around your code more efficiently and save time when working with large projects. Jump to a method, function or variable **definition** in just one click, or search for its **usages**.
