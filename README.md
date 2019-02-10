@@ -34,7 +34,7 @@ You can profile your applications with Xdebug or Zend Debugger and check aggrega
 
 ## HTML/CSS/JavaScript Editor
 
-PhpStorm includes all the features of WebStorm related to HTML, CSS and JavaScript.
+*PhpStorm includes all the features of WebStorm related to HTML, CSS and JavaScript.*
 
 ### HTML and CSS Editor
 
