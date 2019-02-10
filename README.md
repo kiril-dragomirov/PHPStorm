@@ -1,6 +1,6 @@
 # PHPStorm
 
-![GitHub Logo](https://student.nbu.bg/images/logo-estudent.png)
+![GitHub Logo](https://cdn.worldvectorlogo.com/logos/phpstorm.svg)
 
 ## Intelligent coding assistance
 
@@ -66,4 +66,4 @@ PhpStorm provides tools and code assistance features for working with databases 
 
 Perform many routine tasks right from the IDE with support for Vagrant support, Docker, Composer, and more.
 
-![GitHub Logo](https://www.jetbrains.com/company/press/img/beam-1.png | height=150)
+![GitHub Logo](https://www.jetbrains.com/company/press/img/beam-1.png)
