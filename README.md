@@ -1,5 +1,7 @@
 # PHPStorm
 
+![GitHub Logo](https://student.nbu.bg/images/logo-estudent.png)
+
 ## Intelligent coding assistance
 
 *PhpStorm is a PHP IDE that actually ‘gets’ your code. It supports PHP 5.3/5.4/5.5/5.6/7.0/7.1/7.2, provides on-the-fly error prevention, best autocompletion & code refactoring, zero configuration debugging, and an extended HTML, CSS, and JavaScript editor.*
@@ -63,3 +65,5 @@ PhpStorm provides tools and code assistance features for working with databases 
 ### Other Features
 
 Perform many routine tasks right from the IDE with support for Vagrant support, Docker, Composer, and more.
+
+![GitHub Logo](https://www.jetbrains.com/company/press/img/beam-1.png)
