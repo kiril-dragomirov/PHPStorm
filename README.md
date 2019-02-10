@@ -15,3 +15,35 @@ Hundreds of code inspections verify your code as you type and inspect the whole 
 ### Easy Code Navigation & Search
 
 PhpStorm helps you get around your code more efficiently and save time when working with large projects. Jump to a method, function or variable **definition** in just one click, or search for its **usages**.
+
+## Debugging, Testing and Profiling
+
+PhpStorm provides powerful built-in tools for debugging, testing and profiling your applications.
+
+### Debugging
+
+Zero-configuration debugging makes it really easy to debug your PHP applications. Besides, PhpStorm provides numerous options for debugging your PHP code with Visual Debugger, so you can: inspect variables and user-defined watches, set breakpoints and evaluate an expression in runtime, debug remote applications, debug a page in multiple sessions simultaneously, and more.
+
+### Testing
+
+You can develop PHPUnit tests right in PhpStorm and run them instantly from a directory, file or class, by using the context menu options. Code Coverage from **PHPUnit** shows how much of your code is covered with tests.
+
+### Profiling
+
+You can profile your applications with Xdebug or Zend Debugger and check aggregated reports in PhpStorm.
+
+## HTML/CSS/JavaScript Editor
+
+PhpStorm includes all the features of WebStorm related to HTML, CSS and JavaScript.
+
+### HTML and CSS Editor
+
+All the cutting edge web development technologies are supported including HTML5, CSS, SASS,SCSS, LESS, CoffeeScript, ECMAScript Harmony, Jade templates, etc. Live Edit gives you an opportunity to see all the changes instantly in the browser without refreshing the page.
+
+### JavaScript Editor 
+
+The smartest JavaScript Editor is bundled with the IDE, offering code completion, validation and quick fixes, refactorings, JSDoc type annotations support, JavaScript debugging and unit testing, support for JavaScript Frameworks, and more.
+
+### New Technologies
+
+PhpStorm provides a streamlined experience for the full development cycle with new languages such as TypeScript, CoffeeScript, and Dart.
