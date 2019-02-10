@@ -2,7 +2,7 @@
 
 ## Intelligent coding assistance
 
-PhpStorm is a PHP IDE that actually ‘gets’ your code. It supports PHP 5.3/5.4/5.5/5.6/7.0/7.1/7.2, provides on-the-fly error prevention, best autocompletion & code refactoring, zero configuration debugging, and an extended HTML, CSS, and JavaScript editor.
+*PhpStorm is a PHP IDE that actually ‘gets’ your code. It supports PHP 5.3/5.4/5.5/5.6/7.0/7.1/7.2, provides on-the-fly error prevention, best autocompletion & code refactoring, zero configuration debugging, and an extended HTML, CSS, and JavaScript editor.*
 
 ### Smart PHP Code Editor
 
@@ -18,7 +18,7 @@ PhpStorm helps you get around your code more efficiently and save time when work
 
 ## Debugging, Testing and Profiling
 
-PhpStorm provides powerful built-in tools for debugging, testing and profiling your applications.
+*PhpStorm provides powerful built-in tools for debugging, testing and profiling your applications.*
 
 ### Debugging
 
@@ -47,3 +47,19 @@ The smartest JavaScript Editor is bundled with the IDE, offering code completion
 ### New Technologies
 
 PhpStorm provides a streamlined experience for the full development cycle with new languages such as TypeScript, CoffeeScript, and Dart.
+
+## Development Environment
+
+*PhpStorm is built on top of the open-source IntelliJ Platform, which we at JetBrains have been developing and perfecting for over 15 years. Enjoy the fine-tuned, highly customizable experience it provides to fit your development workflow.*
+
+### VCS
+
+PhpStorm provides a unified UI for working with many popular Version Control Systems, ensuring a consistent user experience across git, GitHub, SVN, Mercurial, and Perforce.
+
+### Databases & SQL
+
+PhpStorm provides tools and code assistance features for working with databases and SQL in your projects. Connect to databases, edit schemas and table data, run queries, and even analyze schemas with UML diagrams. SQL code can be injected to other languages or edited in SQL Editor, with syntax highlighting, smart code completion, on-the-fly code analysis, code formatting and navigation available.
+
+### Other Features
+
+Perform many routine tasks right from the IDE with support for Vagrant support, Docker, Composer, and more.
