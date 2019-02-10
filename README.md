@@ -6,6 +6,9 @@
 
 *PhpStorm is a PHP IDE that actually ‘gets’ your code. It supports PHP 5.3/5.4/5.5/5.6/7.0/7.1/7.2, provides on-the-fly error prevention, best autocompletion & code refactoring, zero configuration debugging, and an extended HTML, CSS, and JavaScript editor.*
 
+###### Developed by JetBrains. 
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/220px-JetBrains_Logo_2016.svg.png)
+
 ### Smart PHP Code Editor
 
 The IDE provides smart code completion, syntax highlighting, extended code formatting configuration, on-the-fly error checking, code folding, supports language mixtures and more. Automated refactorings that treat your code with care, helping to make global project settings easily and safely.
